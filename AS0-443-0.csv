@@ -1,0 +1,318 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+13.250.131.37,443,443,true,SIN,Asia Pacific,Singapore,50,27.38
+20.39.191.103,443,443,true,ICN,Asia Pacific,Seoul,101,23.45
+47.238.222.172,443,443,true,FRA,Europe,Frankfurt,14,20.86
+16.162.37.167,443,443,true,HKG,Asia Pacific,Hong Kong,113,17.76
+77.90.8.159,443,443,true,FRA,Europe,Frankfurt,185,15.08
+91.239.148.100,443,443,true,FRA,Europe,Frankfurt,219,14.11
+4.255.56.137,443,443,true,IAD,North America,Ashburn,249,13.69
+13.208.164.103,443,443,true,KIX,Asia Pacific,Osaka,86,12.25
+54.179.184.9,443,0,true,SIN,Asia Pacific,Singapore,53,11.36
+75.2.32.4,443,443,true,IAD,North America,Ashburn,180,11.19
+172.233.129.146,443,443,true,LAX,North America,Los Angeles,156,11.13
+168.138.184.172,443,0,true,SIN,Asia Pacific,Singapore,225,11.02
+142.93.233.37,443,443,true,AMS,Europe,Amsterdam,261,10.46
+185.140.12.239,443,443,true,FRA,Europe,Frankfurt,168,9.94
+210.186.12.244,443,443,true,KUL,Asia Pacific,Kuala Lumpur,277,8.93
+129.154.50.159,443,443,true,ICN,Asia Pacific,Seoul,168,8.71
+104.168.107.230,443,443,true,YYZ,North America,Toronto,236,8.09
+80.76.32.165,443,443,true,FRA,Europe,Frankfurt,205,7.69
+80.76.33.44,443,443,true,FRA,Europe,Frankfurt,204,7.68
+91.239.148.31,443,443,true,FRA,Europe,Frankfurt,204,7.62
+91.239.148.10,443,443,true,FRA,Europe,Frankfurt,229,7.54
+146.56.114.219,443,443,true,SIN,Asia Pacific,Singapore,240,7.51
+212.113.106.225,443,443,true,AMS,Europe,Amsterdam,192,7.30
+150.230.99.153,443,443,true,SIN,Asia Pacific,Singapore,228,7.23
+150.230.62.27,443,80,false,KIX,Asia Pacific,Osaka,180,7.07
+3.18.225.231,443,443,true,ORD,North America,Chicago,202,7.06
+159.138.131.240,443,443,true,HKG,Asia Pacific,Hong Kong,16,6.93
+34.22.100.72,443,443,true,ICN,Asia Pacific,Seoul,212,6.60
+158.180.80.103,443,443,true,SIN,Asia Pacific,Singapore,265,6.57
+107.173.250.62,443,443,true,BUF,North America,Buffalo,247,6.55
+144.24.78.162,443,443,true,ICN,Asia Pacific,Seoul,225,6.54
+50.114.11.19,443,443,true,YVR,North America,Vancouver,181,6.54
+99.83.209.185,443,443,true,IAD,North America,Ashburn,175,6.51
+140.238.47.112,443,443,true,SIN,Asia Pacific,Singapore,282,6.42
+158.180.68.196,443,443,true,SIN,Asia Pacific,Singapore,232,6.22
+130.162.132.220,443,443,true,SIN,Asia Pacific,Singapore,231,6.04
+34.65.219.21,443,443,true,FRA,Europe,Frankfurt,253,5.99
+34.141.42.112,443,443,true,FRA,Europe,Frankfurt,227,5.66
+38.180.30.217,443,443,true,LHR,Europe,London,210,5.58
+172.245.19.17,443,443,true,ATL,North America,Atlanta,258,5.57
+34.116.204.154,443,443,true,FRA,Europe,Frankfurt,259,5.52
+185.172.131.49,443,443,true,FRA,Europe,Frankfurt,248,5.49
+34.34.186.205,443,443,true,CDG,Europe,Paris,255,5.31
+193.123.242.213,443,443,true,SIN,Asia Pacific,Singapore,267,5.30
+34.116.171.221,443,443,true,FRA,Europe,Frankfurt,268,5.16
+147.45.74.107,443,443,true,ARN,Europe,Stockholm,234,5.16
+35.246.195.54,443,443,true,FRA,Europe,Frankfurt,247,5.10
+13.87.92.42,443,443,true,LHR,Europe,London,293,5.01
+34.118.6.115,443,443,true,FRA,Europe,Frankfurt,250,5.01
+77.91.70.65,443,443,true,ARN,Europe,Stockholm,225,4.97
+146.56.116.204,443,443,true,SIN,Asia Pacific,Singapore,239,4.97
+91.239.148.133,443,443,true,FRA,Europe,Frankfurt,232,4.86
+35.204.225.94,443,443,true,FRA,Europe,Frankfurt,253,4.72
+158.101.67.199,443,443,true,SIN,Asia Pacific,Singapore,249,4.68
+88.119.161.187,443,443,true,WAW,Europe,Warsaw,200,4.58
+38.180.105.164,443,443,true,IST,Europe,Istanbul,297,4.53
+152.67.231.219,443,443,true,SJC,North America,San Jose,157,4.46
+34.154.222.58,443,443,true,FRA,Europe,Frankfurt,239,4.43
+91.228.152.113,443,443,true,FRA,Europe,Frankfurt,261,4.16
+132.226.13.236,443,443,true,SIN,Asia Pacific,Singapore,263,4.16
+34.141.146.72,443,443,true,FRA,Europe,Frankfurt,272,4.07
+130.61.193.3,443,443,true,FRA,Europe,Frankfurt,267,3.86
+91.239.148.126,443,443,true,FRA,Europe,Frankfurt,219,3.82
+69.46.7.74,443,443,true,TPA,North America,Tampa,218,3.76
+34.154.39.197,443,443,true,FRA,Europe,Frankfurt,218,3.70
+34.118.12.204,443,443,true,FRA,Europe,Frankfurt,254,3.44
+89.58.0.38,443,443,true,FRA,Europe,Frankfurt,207,3.43
+45.147.51.230,443,443,true,FRA,Europe,Frankfurt,278,3.43
+54.73.170.6,443,443,true,DUB,Europe,Dublin,208,3.43
+35.204.71.150,443,443,true,FRA,Europe,Frankfurt,224,3.27
+23.162.136.182,443,443,true,LHR,Europe,London,255,3.16
+146.56.185.55,443,443,true,SIN,Asia Pacific,Singapore,259,3.11
+34.91.133.138,443,443,true,FRA,Europe,Frankfurt,208,3.10
+213.199.49.245,443,443,true,DUS,Europe,Düsseldorf,263,2.99
+34.154.134.18,443,443,true,FRA,Europe,Frankfurt,205,2.97
+146.70.175.168,443,443,true,AMS,Europe,Amsterdam,216,2.95
+188.132.183.162,443,443,true,FRA,Europe,Frankfurt,264,2.95
+158.101.216.253,443,443,true,FRA,Europe,Frankfurt,349,2.94
+34.65.38.18,443,443,true,FRA,Europe,Frankfurt,201,2.90
+77.68.67.169,443,443,true,LHR,Europe,London,263,2.74
+34.154.169.43,443,443,true,FRA,Europe,Frankfurt,227,2.73
+141.148.229.106,443,443,true,AMS,Europe,Amsterdam,266,2.73
+34.141.188.150,443,443,true,FRA,Europe,Frankfurt,225,2.71
+47.90.141.204,443,443,true,LAX,North America,Los Angeles,239,2.70
+34.159.30.28,443,443,true,FRA,Europe,Frankfurt,234,2.65
+95.164.248.233,443,443,true,MAD,Europe,Madrid,237,2.65
+34.141.57.221,443,443,true,FRA,Europe,Frankfurt,217,2.56
+146.70.175.183,443,443,true,AMS,Europe,Amsterdam,188,2.56
+34.147.30.126,443,443,true,FRA,Europe,Frankfurt,255,2.55
+34.141.46.17,443,443,true,FRA,Europe,Frankfurt,255,2.53
+34.118.118.64,443,443,true,FRA,Europe,Frankfurt,224,2.53
+95.164.248.94,443,443,true,MAD,Europe,Madrid,250,2.53
+35.198.133.80,443,443,true,FRA,Europe,Frankfurt,216,2.53
+34.154.125.224,443,443,true,FRA,Europe,Frankfurt,239,2.51
+51.79.254.182,443,443,true,SIN,Asia Pacific,Singapore,237,2.51
+34.65.12.97,443,443,true,FRA,Europe,Frankfurt,239,2.47
+35.204.137.100,443,443,true,FRA,Europe,Frankfurt,234,2.46
+34.253.175.38,443,443,true,DUB,Europe,Dublin,206,2.44
+138.2.174.79,443,443,true,FRA,Europe,Frankfurt,236,2.41
+141.147.183.101,443,443,true,SIN,Asia Pacific,Singapore,233,2.39
+34.118.31.219,443,443,true,FRA,Europe,Frankfurt,273,2.36
+18.197.97.165,443,443,true,FRA,Europe,Frankfurt,166,2.28
+206.189.129.187,443,443,true,MAA,Asia Pacific,Chennai,295,2.26
+146.70.175.163,443,443,true,AMS,Europe,Amsterdam,193,2.24
+158.101.209.178,443,443,true,FRA,Europe,Frankfurt,244,2.23
+34.116.216.165,443,443,true,FRA,Europe,Frankfurt,242,2.22
+16.162.37.123,443,443,true,HKG,Asia Pacific,Hong Kong,109,2.19
+34.118.123.8,443,443,true,FRA,Europe,Frankfurt,228,2.18
+34.159.208.192,443,443,true,FRA,Europe,Frankfurt,220,2.16
+138.2.163.163,443,443,true,FRA,Europe,Frankfurt,268,2.10
+34.118.107.128,443,443,true,FRA,Europe,Frankfurt,213,2.09
+34.118.122.1,443,443,true,FRA,Europe,Frankfurt,284,2.07
+34.154.86.247,443,443,true,FRA,Europe,Frankfurt,196,2.04
+193.31.26.74,443,443,true,FRA,Europe,Frankfurt,181,2.04
+146.70.175.175,443,443,true,AMS,Europe,Amsterdam,199,2.04
+34.147.50.37,443,443,true,FRA,Europe,Frankfurt,214,2.03
+146.70.175.120,443,443,true,AMS,Europe,Amsterdam,190,2.01
+185.233.82.10,443,443,true,VIE,Europe,Vienna,190,1.98
+146.70.169.118,443,443,true,AMS,Europe,Amsterdam,209,1.97
+146.70.175.182,443,443,true,AMS,Europe,Amsterdam,203,1.97
+84.235.163.204,443,443,true,FRA,Europe,Frankfurt,313,1.95
+35.246.157.28,443,443,true,FRA,Europe,Frankfurt,234,1.94
+34.154.65.62,443,443,true,FRA,Europe,Frankfurt,292,1.92
+34.116.252.47,443,443,true,FRA,Europe,Frankfurt,263,1.92
+34.154.149.207,443,443,true,FRA,Europe,Frankfurt,245,1.91
+34.118.46.218,443,443,true,FRA,Europe,Frankfurt,305,1.90
+34.118.20.131,443,443,true,FRA,Europe,Frankfurt,229,1.89
+34.65.128.135,443,443,true,FRA,Europe,Frankfurt,236,1.89
+34.65.19.61,443,443,true,FRA,Europe,Frankfurt,236,1.86
+146.70.175.122,443,443,true,AMS,Europe,Amsterdam,199,1.83
+8.209.85.61,443,443,true,FRA,Europe,Frankfurt,239,1.80
+158.101.204.223,443,443,true,FRA,Europe,Frankfurt,243,1.79
+34.65.5.240,443,443,true,FRA,Europe,Frankfurt,235,1.78
+34.118.68.230,443,443,true,FRA,Europe,Frankfurt,261,1.76
+34.34.32.189,443,443,true,FRA,Europe,Frankfurt,203,1.76
+64.226.94.33,443,443,true,FRA,Europe,Frankfurt,277,1.75
+34.154.145.67,443,443,true,FRA,Europe,Frankfurt,229,1.72
+152.70.58.179,443,443,true,FRA,Europe,Frankfurt,263,1.68
+34.118.17.210,443,443,true,FRA,Europe,Frankfurt,263,1.68
+34.118.60.206,443,443,true,FRA,Europe,Frankfurt,259,1.67
+34.154.113.214,443,443,true,FRA,Europe,Frankfurt,262,1.67
+158.180.39.249,443,443,true,FRA,Europe,Frankfurt,242,1.67
+34.118.10.54,443,443,true,FRA,Europe,Frankfurt,268,1.66
+34.154.191.97,443,443,true,FRA,Europe,Frankfurt,255,1.53
+34.118.22.25,443,443,true,FRA,Europe,Frankfurt,244,1.50
+95.164.62.152,443,443,true,AMS,Europe,Amsterdam,190,1.47
+34.154.192.70,443,443,true,FRA,Europe,Frankfurt,234,1.46
+34.116.189.137,443,443,true,FRA,Europe,Frankfurt,244,1.42
+144.21.43.50,443,443,true,FRA,Europe,Frankfurt,291,1.41
+104.168.125.192,443,443,true,ORD,North America,Chicago,249,1.40
+146.70.175.164,443,443,true,AMS,Europe,Amsterdam,184,1.40
+94.177.8.51,443,443,true,VIE,Europe,Vienna,262,1.40
+34.154.169.50,443,443,true,FRA,Europe,Frankfurt,258,1.39
+34.154.27.90,443,443,true,FRA,Europe,Frankfurt,227,1.37
+34.116.207.43,443,443,true,FRA,Europe,Frankfurt,254,1.34
+95.164.249.236,443,443,true,MAD,Europe,Madrid,308,1.31
+130.162.184.194,443,443,true,FRA,Europe,Frankfurt,276,1.30
+20.108.51.255,443,443,true,LHR,Europe,London,232,1.30
+80.158.63.104,443,443,true,MXP,Europe,Milan,259,1.29
+34.154.12.177,443,443,true,FRA,Europe,Frankfurt,236,1.29
+168.119.107.110,443,443,true,FRA,Europe,Frankfurt,285,1.28
+34.141.137.1,443,443,true,FRA,Europe,Frankfurt,241,1.27
+172.93.165.228,443,443,true,SIN,Asia Pacific,Singapore,32,1.26
+34.141.236.235,443,443,true,FRA,Europe,Frankfurt,273,1.25
+34.116.200.169,443,443,true,FRA,Europe,Frankfurt,260,1.19
+34.116.181.113,443,443,true,FRA,Europe,Frankfurt,270,1.18
+147.45.72.18,443,443,true,AMS,Europe,Amsterdam,235,1.17
+146.70.175.184,443,443,true,AMS,Europe,Amsterdam,188,1.17
+47.254.152.128,443,443,true,FRA,Europe,Frankfurt,240,1.15
+34.89.171.21,443,443,true,FRA,Europe,Frankfurt,234,1.12
+138.3.240.98,443,443,true,FRA,Europe,Frankfurt,289,1.09
+146.70.175.189,443,443,true,AMS,Europe,Amsterdam,183,1.09
+34.32.237.103,443,443,true,FRA,Europe,Frankfurt,245,1.09
+132.145.236.58,443,443,true,FRA,Europe,Frankfurt,281,1.07
+158.178.157.144,443,443,true,FRA,Europe,Frankfurt,310,1.07
+146.70.175.107,443,443,true,AMS,Europe,Amsterdam,190,1.05
+34.65.26.169,443,443,true,FRA,Europe,Frankfurt,236,1.03
+152.70.53.113,443,443,true,FRA,Europe,Frankfurt,295,1.02
+158.180.32.114,443,443,true,FRA,Europe,Frankfurt,284,1.01
+34.65.225.189,443,443,true,FRA,Europe,Frankfurt,214,0.98
+146.70.175.123,443,443,true,AMS,Europe,Amsterdam,205,0.97
+34.65.204.120,443,443,true,FRA,Europe,Frankfurt,211,0.96
+132.226.208.223,443,443,true,FRA,Europe,Frankfurt,252,0.92
+141.144.192.182,443,443,true,FRA,Europe,Frankfurt,263,0.90
+194.247.187.181,443,443,true,AMS,Europe,Amsterdam,306,0.88
+138.3.222.33,443,443,true,NRT,Asia Pacific,Tokyo,187,0.87
+46.17.107.183,443,443,true,EWR,North America,Newark,251,0.82
+94.177.8.11,443,443,true,VIE,Europe,Vienna,264,0.82
+80.240.19.80,443,443,true,FRA,Europe,Frankfurt,253,0.81
+132.145.241.98,443,443,true,FRA,Europe,Frankfurt,244,0.81
+143.47.243.96,443,443,true,FRA,Europe,Frankfurt,264,0.79
+94.177.8.5,443,443,true,VIE,Europe,Vienna,254,0.78
+34.154.74.34,443,443,true,FRA,Europe,Frankfurt,268,0.73
+34.116.248.5,443,443,true,FRA,Europe,Frankfurt,249,0.71
+193.42.62.191,443,443,true,FRA,Europe,Frankfurt,239,0.67
+141.148.225.142,443,443,true,AMS,Europe,Amsterdam,257,0.65
+142.93.141.178,443,443,true,AMS,Europe,Amsterdam,268,0.62
+52.58.217.68,443,443,true,FRA,Europe,Frankfurt,184,0.60
+45.148.60.11,443,443,true,AMS,Europe,Amsterdam,316,0.58
+35.198.114.188,443,443,true,FRA,Europe,Frankfurt,227,0.57
+8.218.63.172,443,443,true,HKG,Asia Pacific,Hong Kong,29,0.54
+34.118.42.177,443,443,true,FRA,Europe,Frankfurt,215,0.52
+45.86.229.28,443,443,true,MAD,Europe,Madrid,301,0.49
+132.226.174.242,443,443,true,SIN,Asia Pacific,Singapore,254,0.48
+45.159.249.26,443,443,true,HEL,Europe,Helsinki,270,0.44
+212.113.106.59,443,443,true,AMS,Europe,Amsterdam,194,0.42
+158.180.12.20,443,443,true,FRA,Europe,Frankfurt,280,0.36
+47.57.245.232,443,443,true,SJC,North America,San Jose,34,0.35
+3.65.21.45,443,443,true,FRA,Europe,Frankfurt,176,0.34
+212.113.106.102,443,443,true,FRA,Europe,Frankfurt,203,0.30
+185.65.149.44,443,443,true,NRT,Asia Pacific,Tokyo,190,0.30
+79.133.183.150,443,443,true,DME,Europe,Moscow,283,0.29
+195.66.87.245,443,443,true,HEL,Europe,Helsinki,210,0.27
+52.29.224.33,443,443,true,FRA,Europe,Frankfurt,190,0.22
+91.149.253.152,443,443,true,WAW,Europe,Warsaw,253,0.21
+94.177.8.48,443,443,true,VIE,Europe,Vienna,275,0.19
+45.144.233.168,443,443,true,FRA,Europe,Frankfurt,259,0.19
+185.104.112.234,443,443,true,FRA,Europe,Frankfurt,300,0.17
+185.94.165.218,443,443,true,AMS,Europe,Amsterdam,225,0.17
+165.227.134.63,443,443,true,FRA,Europe,Frankfurt,275,0.14
+188.40.171.70,443,443,true,FRA,Europe,Frankfurt,281,0.14
+193.142.147.191,443,443,true,AMS,Europe,Amsterdam,198,0.13
+207.174.30.146,443,443,true,AMS,Europe,Amsterdam,225,0.13
+84.235.169.234,443,443,true,AMS,Europe,Amsterdam,253,0.10
+20.170.41.153,443,443,true,FRA,Europe,Frankfurt,244,0.10
+195.15.201.22,443,443,true,MXP,Europe,Milan,274,0.10
+194.87.191.104,443,443,true,AMS,Europe,Amsterdam,249,0.10
+192.236.249.103,443,443,true,AMS,Europe,Amsterdam,300,0.09
+138.2.10.4,443,443,true,SIN,Asia Pacific,Singapore,252,0.09
+38.180.48.140,443,443,true,PRG,Europe,Prague,197,0.09
+18.157.158.0,443,443,true,FRA,Europe,Frankfurt,187,0.09
+38.180.100.80,443,443,true,FRA,Europe,Frankfurt,192,0.09
+195.133.13.93,443,443,true,AMS,Europe,Amsterdam,218,0.09
+185.233.203.162,443,443,true,AMS,Europe,Amsterdam,229,0.08
+159.253.23.238,443,443,true,OSL,Europe,Oslo,198,0.08
+54.200.244.93,443,443,true,SEA,North America,Seattle,185,0.07
+195.15.253.71,443,443,true,GVA,Europe,Geneva,183,0.07
+185.229.225.229,443,443,true,AMS,Europe,Amsterdam,285,0.06
+185.39.206.164,443,443,true,AMS,Europe,Amsterdam,253,0.06
+45.9.72.114,443,443,true,HEL,Europe,Helsinki,190,0.05
+45.81.227.122,443,443,true,AMS,Europe,Amsterdam,215,0.04
+80.76.34.13,443,443,true,AMS,Europe,Amsterdam,196,0.04
+54.194.162.247,443,443,true,DUB,Europe,Dublin,207,0.04
+193.233.202.196,443,443,true,KIV,Europe,Chișinău,220,0.04
+154.49.137.82,443,443,true,VNO,Europe,Vilnius,207,0.04
+152.32.211.127,443,443,true,LAX,North America,Los Angeles,172,0.04
+194.147.33.13,443,443,true,AMS,Europe,Amsterdam,243,0.04
+38.207.143.37,443,443,true,HKG,Asia Pacific,Hong Kong,220,0.04
+146.19.233.20,443,443,true,FRA,Europe,Frankfurt,228,0.04
+195.58.50.250,443,443,true,AMS,Europe,Amsterdam,250,0.03
+192.236.249.104,443,443,true,AMS,Europe,Amsterdam,301,0.03
+192.236.249.100,443,443,true,AMS,Europe,Amsterdam,283,0.03
+195.58.50.194,443,443,true,AMS,Europe,Amsterdam,289,0.03
+150.109.155.155,443,443,true,HKG,Asia Pacific,Hong Kong,54,0.03
+92.118.169.96,443,443,true,AMS,Europe,Amsterdam,317,0.02
+208.67.105.251,443,443,true,AMS,Europe,Amsterdam,305,0.02
+5.61.57.201,443,443,true,AMS,Europe,Amsterdam,237,0.01
+5.45.67.251,443,443,true,AMS,Europe,Amsterdam,258,0.01
+152.32.239.228,443,443,true,LAX,North America,Los Angeles,173,0.00
+52.209.63.185,443,443,true,DUB,Europe,Dublin,200,0.00
+3.120.212.75,443,443,true,FRA,Europe,Frankfurt,168,0.00
+18.211.101.20,443,443,true,IAD,North America,Ashburn,216,0.00
+3.99.106.179,443,443,true,YYZ,North America,Toronto,235,0.00
+79.132.139.109,443,443,true,AMS,Europe,Amsterdam,269,0.00
+3.68.31.54,443,443,true,FRA,Europe,Frankfurt,184,0.00
+94.78.67.172,443,443,true,LCA,Europe,Nicosia,234,0.00
+38.124.43.237,443,443,true,SJC,North America,San Jose,165,0.00
+5.61.39.24,443,443,true,FRA,Europe,Frankfurt,257,0.00
+193.123.69.77,443,443,true,CDG,Europe,Paris,148,0.00
+185.105.118.15,443,443,true,FRA,Europe,Frankfurt,190,0.00
+54.248.121.219,443,443,true,NRT,Asia Pacific,Tokyo,60,0.00
+193.47.100.208,443,443,true,DUS,Europe,Düsseldorf,261,0.00
+204.110.220.11,443,443,true,SEA,North America,Seattle,170,0.00
+51.158.183.210,443,443,true,AMS,Europe,Amsterdam,198,0.00
+34.142.31.109,443,443,true,LHR,Europe,London,261,0.00
+162.223.94.164,443,443,true,BUF,North America,Buffalo,225,0.00
+4.230.8.95,443,443,true,ICN,Asia Pacific,Seoul,97,0.00
+81.95.4.189,443,443,true,FRA,Europe,Frankfurt,205,0.00
+20.221.32.145,443,443,true,ORD,North America,Chicago,189,0.00
+185.241.192.93,443,443,true,DME,Europe,Moscow,291,0.00
+34.65.81.183,443,443,true,FRA,Europe,Frankfurt,258,0.00
+219.76.13.169,443,443,true,HKG,Asia Pacific,Hong Kong,12,0.00
+141.147.161.250,443,0,true,NRT,Asia Pacific,Tokyo,161,0.00
+35.194.78.251,443,443,true,IAD,North America,Ashburn,242,0.00
+47.90.201.189,443,443,true,IAD,North America,Ashburn,221,0.00
+43.128.26.74,443,443,true,HKG,Asia Pacific,Hong Kong,39,0.00
+99.80.88.225,443,443,true,DUB,Europe,Dublin,213,0.00
+35.246.150.211,443,443,true,FRA,Europe,Frankfurt,197,0.00
+35.88.74.18,443,443,true,SEA,North America,Seattle,179,0.00
+34.150.180.124,443,443,true,IAD,North America,Ashburn,234,0.00
+34.105.189.25,443,443,true,LHR,Europe,London,262,0.00
+168.138.194.74,443,443,true,NRT,Asia Pacific,Tokyo,164,0.00
+103.49.202.250,443,443,true,DAC,Asia Pacific,Dhaka,309,0.00
+43.156.181.203,443,443,true,SIN,Asia Pacific,Singapore,53,0.00
+167.114.67.25,443,443,true,YYZ,North America,Toronto,236,0.00
+18.193.131.26,443,443,true,FRA,Europe,Frankfurt,197,0.00
+49.51.197.141,443,443,true,SJC,North America,San Jose,166,0.00
+67.226.223.240,443,443,true,ORD,North America,Chicago,218,0.00
+185.204.52.112,443,443,true,AMS,Europe,Amsterdam,306,0.00
+34.48.102.73,443,443,true,IAD,North America,Ashburn,249,0.00
+18.135.188.86,443,443,true,LHR,Europe,London,195,0.00
+209.182.100.234,443,443,true,AMS,Europe,Amsterdam,305,0.00
+195.141.59.27,443,443,true,FRA,Europe,Frankfurt,244,0.00
+3.9.223.59,443,443,true,LHR,Europe,London,191,0.00
+3.143.106.216,443,443,true,ORD,North America,Chicago,212,0.00
+3.96.199.75,443,443,false,YUL,North America,Montréal,243,0.00
+18.185.254.189,443,443,true,FRA,Europe,Frankfurt,185,0.00
+207.2.120.16,443,443,true,SJC,North America,San Jose,161,0.00
+34.86.193.161,443,443,true,IAD,North America,Ashburn,269,0.00
+34.81.35.248,443,443,true,TPE,Asia Pacific,Taipei,23,0.00
+54.247.36.82,443,443,true,DUB,Europe,Dublin,199,0.00
+13.228.142.218,443,443,true,SIN,Asia Pacific,Singapore,74,0.00
+219.76.13.181,443,443,true,HKG,Asia Pacific,Hong Kong,30,0.00
+40.82.159.134,443,443,true,ICN,Asia Pacific,Seoul,116,0.00
+219.76.13.180,443,443,true,HKG,Asia Pacific,Hong Kong,12,0.00
+103.220.72.40,443,443,true,HKG,Asia Pacific,Hong Kong,34,0.00
+139.99.66.76,443,443,true,SIN,Asia Pacific,Singapore,229,0.00
